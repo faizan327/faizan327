@@ -1,6 +1,6 @@
 <!-- ======================== HEADER WAVE ======================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:330000&height=230&section=header&text=Asad%20Ali&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Flutter%20%7C%20AI%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:330000&height=230&section=header&text=Faizan%20Khawar&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Flutter%20%7C%20AI%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 </p>
 
 <!-- ======================== TYPING SVG ======================== -->
