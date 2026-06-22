@@ -162,16 +162,16 @@ I care about clean code, robust software architecture, and shipping products tha
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=faizan327&show_icons=true&hide_border=true&bg_color=0D1117&title_color=e63946&icon_color=e63946&text_color=FFFFFF&ring_color=e63946"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan327&layout=compact&hide_border=true&bg_color=0D1117&title_color=e63946&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizan327&show_icons=true&hide_border=true&bg_color=00000000&title_color=e63946&icon_color=e63946&text_color=a0aec0&ring_color=e63946&hide_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan327&layout=compact&hide_border=true&bg_color=00000000&title_color=e63946&text_color=a0aec0&langs_count=5" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan327&hide_border=true&background=0D1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=FFFFFF&dates=e63946"/>
+  <img src="https://streak-stats.demolab.com/?user=faizan327&hide_border=true&background=00000000&ring=e63946&fire=e63946&currStreakLabel=e63946&currStreakNum=ffffff&sideNums=a0aec0&sideLabels=a0aec0&dates=707080" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan327&theme=react-dark&hide_border=true&bg_color=0D1117&color=e63946&line=e63946&point=FFFFFF&area=true&area_color=e63946"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan327&hide_border=true&bg_color=00000000&color=a0aec0&line=e63946&point=ffffff&area=true&area_color=e63946" />
 </p>
 
 ---
