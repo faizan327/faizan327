@@ -220,7 +220,7 @@ If you're looking for a developer who:
 ---
 
 <p align="center">
-  <i>"Building software is not just about code — it's about solving real-world problems with scalable engineering."</i>
+  <i>"Building software is not just about code. it's about solving real world problems with scalable engineering."</i>
 </p>
 
 <!-- ======================== FOOTER WAVE ======================== -->
