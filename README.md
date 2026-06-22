@@ -1,26 +1,26 @@
 <!-- ======================== HEADER WAVE ======================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:330000&height=230&section=header&text=Faizan%20Khawar&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20.NET%20MAUI%20%7C%20Node.js%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e63946,100:0d1117&height=230&section=header&text=Faizan%20Khawar&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Developer%20%7C%20AI%20Automation%20%7C%20Flutter&descAlignY=55&descSize=20" width="100%"/>
 </p>
 
 <!-- ======================== TYPING SVG ======================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=900&lines=Flutter+%26+.NET+MAUI+Developer;Node.js+%7C+Express+%7C+MongoDB;POS+Systems+%26+AI+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3000&pause=1000&color=e63946&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;SaaS+Developer;AI+Automation+Expert;Flutter+Developer" />
 </p>
 
 <!-- ======================== BADGES ======================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizan327&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/AVAILABLE_FOR_WORK-YES-FF0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LOCATION-Pakistan_%F0%9F%87%B5%F0%9F%87%B0-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=faizan327&label=Profile+Views&color=e63946&style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Available_For_Work-Yes-e63946?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Location-Pakistan_🇵🇰-e63946?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 <p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-currently-building">Currently Building</a> •
-  <a href="#-services">Services</a> •
-  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
-  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-about-me">About</a> │
+  <a href="#-currently-building">Currently Building</a> │
+  <a href="#-services">Services</a> │
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> │
+  <a href="#-github-analytics">Analytics</a> │
   <a href="#-contact">Contact</a>
 </p>
 
@@ -32,11 +32,11 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a **Mobile & Backend Developer** focused on building cross-platform apps and the systems that power them.
+I'm a **Full Stack & SaaS Developer** focused on building end-to-end applications, intelligent AI automation, and high-performance cross-platform mobile apps with **Flutter**.
 
-My recent work centers on **Flutter** and **.NET MAUI** for mobile/desktop apps, paired with **Node.js / Express** APIs on the backend — including real-world **Point-of-Sale (POS)** and device-control applications.
+My expertise spans the entire software development lifecycle—from responsive frontends and backend REST APIs (**Node.js/Express**) to AI-driven workflows and scalable SaaS platforms.
 
-I care about clean code, clear communication with clients, and shipping things that actually work in production.
+I care about clean code, robust software architecture, and shipping products that drive real business value.
 
 </td>
 <td width="42%" valign="top">
@@ -44,8 +44,8 @@ I care about clean code, clear communication with clients, and shipping things t
 |  |  |
 |---|---|
 | 📍 | Based in Pakistan |
-| 💼 | Mobile & Backend Developer |
-| 🔭 | Building POS & automation apps |
+| 💼 | Full Stack & SaaS Developer |
+| 🔭 | Building SaaS & AI Automations |
 | 🌐 | [aptifysolutions.com](https://aptifysolutions.com) |
 | 🤝 | Open to freelance & collab |
 
@@ -78,12 +78,12 @@ I care about clean code, clear communication with clients, and shipping things t
 </details>
 
 <details>
-<summary><b>🧾 POS & Business Systems</b></summary>
+<summary><b>💻 SaaS & Web Applications</b></summary>
 <br>
 
-- Point-of-Sale (POS) Applications
-- Inventory & Sales Management Modules
-- Cashier / Reporting Workflows
+- Custom SaaS Product Development
+- Responsive Web Apps (React, Tailwind CSS)
+- Point-of-Sale (POS) & Business Systems
 
 </details>
 
@@ -150,11 +150,11 @@ I care about clean code, clear communication with clients, and shipping things t
 ## 🚀 Featured Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Advanced-FF0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/.NET_MAUI-Advanced-FF0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Node.js-Intermediate-FF0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/POS_Systems-Advanced-FF0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/AI_Automation-Intermediate-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Flutter-Expert-e63946?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Full_Stack_Development-Expert-e63946?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/SaaS_Developer-Expert-e63946?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/AI_Automation-Expert-e63946?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Node.js_Backend-Advanced-e63946?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 ---
@@ -162,16 +162,16 @@ I care about clean code, clear communication with clients, and shipping things t
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=faizan327&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan327&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=faizan327&show_icons=true&hide_border=true&bg_color=0D1117&title_color=e63946&icon_color=e63946&text_color=FFFFFF&ring_color=e63946"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan327&layout=compact&hide_border=true&bg_color=0D1117&title_color=e63946&text_color=FFFFFF&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan327&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=8B0000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan327&hide_border=true&background=0D1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=FFFFFF&dates=e63946"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan327&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan327&theme=react-dark&hide_border=true&bg_color=0D1117&color=e63946&line=e63946&point=FFFFFF&area=true&area_color=e63946"/>
 </p>
 
 ---
@@ -207,13 +207,13 @@ If you're looking for a developer who:
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Email-Contact-e63946?style=flat-square&logo=gmail&logoColor=white&labelColor=1e1e2e" />
   </a>
   <a href="https://aptifysolutions.com">
-    <img src="https://img.shields.io/badge/Portfolio-Aptify_Solutions-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Portfolio-Aptify_Solutions-e63946?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1e1e2e" />
   </a>
   <a href="https://github.com/faizan327">
-    <img src="https://img.shields.io/badge/GitHub-faizan327-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/GitHub-faizan327-e63946?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" />
   </a>
 </p>
 
@@ -224,4 +224,4 @@ If you're looking for a developer who:
 </p>
 
 <!-- ======================== FOOTER WAVE ======================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:330000,50:FF0000,100:8B0000&height=120&section=footer&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:e63946,100:0d1117&height=120&section=footer&width=100%"/>
