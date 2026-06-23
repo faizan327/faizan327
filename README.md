@@ -57,6 +57,8 @@ I care about clean code, robust software architecture, and shipping products tha
 
 ## 🔭 Currently Building
 
+> 🎫 **QR Queue System** — a mobile-first restaurant queue management system with live ticket page, lobby display, and admin dashboard → [view repo](https://github.com/faizan327/qr-queue-system)
+>
 > 🛒 **POS System** — a point-of-sale application for retail/business use → [view repo](https://github.com/faizan327/POS)
 >
 > 📡 **.NET MAUI WiFi Controller** — a cross-platform app to manage WiFi-enabled devices → [view repo](https://github.com/faizan327/maui-wifi-controller)
